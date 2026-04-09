@@ -10,6 +10,10 @@
 
 An ESP32-S3 watch face application featuring a real-time SPH fluid simulation that reacts to accelerometer tilt. It combines an analog watch face, digital time/date, and an interactive LVGL fluid canvas.
 
+## 📷 Screenshots
+
+![Watch Face Demo](./show.jpg)
+
 ## Overview
 
 This project targets the **ESP32-S3-EYE** board and uses **ESP-IDF + LVGL** to build a smartwatch-style UI. The fluid effect is driven by accelerometer input and updated at 30 Hz for responsive motion.

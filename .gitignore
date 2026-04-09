@@ -39,6 +39,12 @@ Thumbs.db
 tmp/
 temp/
 
-.gitignore
+# Claude Code
+.claude/
+.scheduled_tasks.json
+
+# CodeBuddy (not tracked)
+.codebuddy/
+
+# Documentation (optional, keep local)
 项目汇报文档.md
-.codebuddy".codebuddy/rules/" 
